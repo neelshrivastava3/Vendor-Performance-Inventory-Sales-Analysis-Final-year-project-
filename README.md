@@ -270,7 +270,3 @@ The insights generated enable organizations to identify underperforming vendors,
 
 ---
 
-## 👤 Author
-
-> Made with ❤️ as part of a Data Analytics Project  
-> Feel free to ⭐ this repo if you found it helpful!
